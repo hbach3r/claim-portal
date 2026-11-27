@@ -83,17 +83,8 @@ lerna-debug.log*
 # IDEs & Text Editors
 # ------------------------------------------
 # IntelliJ IDEA
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaryStates.xml
-.idea/**/shelf/
-.idea/**/dataSources/
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/httpRequests/
-.idea/**/queries/
-.idea/**/markdown.xml
+.idea/
+*.iml
 *.iws
 *.ipr
 out/
