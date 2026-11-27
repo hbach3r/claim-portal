@@ -1,0 +1,24 @@
+target/
+*.class
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# Spring Boot
+.reloadtrigger
+
+# Local databases
+*.mv.db
+*.trace.db
+*.h2.db
+*.db
+*.sqlite
